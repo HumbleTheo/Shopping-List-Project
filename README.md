@@ -1,4 +1,6 @@
-# ShoppingList
+# Shopping-List-Project
+
+A little project that displays a basic shopping list
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.9.
 
